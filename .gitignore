@@ -1,0 +1,5 @@
+# Ignore all application.properties variants
+**/application*.properties
+
+# But keep example templates
+!**/application*.properties.example
